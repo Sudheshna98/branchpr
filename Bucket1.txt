@@ -1,0 +1,1 @@
+This is for S3 bucket practice for the use case of public access to objects .
