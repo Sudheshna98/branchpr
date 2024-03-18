@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+
+=======
+This is the file present on the feature branch
+>>>>>>> feature
